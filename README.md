@@ -1,4 +1,4 @@
-# Unit 15 Homework: Leaflet Challenge
+# Leaflet Challenge
 I used earthquake data from the United States Geological Survey, or USGS, to create a tool that allows the visualization of earthquake information to better educate the public and other government organizations, and secure more funding for earthquake research and pass new guidelines to prevent earthquake damage.
 
 ## Create the Earthquake Visualization
